@@ -1,5 +1,4 @@
-//1,bereket getye 00717/14
-//solomon melkamu 02683/14
+solomon melkamu 02683/14
 #include <windows.h>
 #include <GL/glut.h>
 
