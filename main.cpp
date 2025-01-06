@@ -1,4 +1,4 @@
-solomon melkamu 02683/14
+//solomon melkamu 
 #include <windows.h>
 #include <GL/glut.h>
 
