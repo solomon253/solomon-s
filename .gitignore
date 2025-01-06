@@ -1,2 +1,5 @@
+#commit means the snapshot of the curent status
 #ignore the text files
 *.txt
+*.ping
+*.htm
